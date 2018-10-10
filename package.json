@@ -1,0 +1,25 @@
+{
+  "name": "french-verbs-list",
+  "version": "0.0.1",
+  "description": "A list of all french verbs, sorted by conjugation groups",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Einenlum/french-verbs-list.git"
+  },
+  "keywords": [
+    "french",
+    "verbs",
+    "conjugation",
+    "language"
+  ],
+  "author": "Einenlum",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Einenlum/french-verbs-list/issues"
+  },
+  "homepage": "https://github.com/Einenlum/french-verbs-list#readme"
+}
